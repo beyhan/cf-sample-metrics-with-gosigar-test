@@ -1,0 +1,6 @@
+---
+applications:
+- name: cf-sample-metrics-with-gosigar-test
+  memory: 256M
+  instances: 1
+  disk_quota: 1G
